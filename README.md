@@ -6,7 +6,8 @@ This project I  have completed during my one-month internship at Unified Mentor.
 📖 About the Project:
 This project analyzes electric vehicle (EV) sales trends across different states, vehicle types, and time periods using MySQL. It provides insights into market growth, top-selling states, seasonal patterns, and future opportunities in the EV sector.
 
-📊 Key Insights:
+                                             📊 Key Insights:
+
 🔹 State-wise Analysis:
 Uttar Pradesh has the highest EV sales, while Sikkim has the lowest.
 Sales trends vary significantly across states, with some states showing rapid adoption over time.
@@ -23,7 +24,7 @@ Sales have grown by [%] from 2022 to 2024, indicating increasing EV adoption.
 Uttar Pradesh dominates the EV market, contributing 16.59% of total sales.
 The growth rate of EV sales has accelerated, with significant expansion in certain states.
 
-📢 Recommendations:
+                                          📢 Recommendations:
 
 ✅ Expand EV Infrastructure: Increase the number of charging stations, especially in states with growing adoption, to support long-term EV growth.
 
